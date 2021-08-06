@@ -1,1 +1,1 @@
-This is a README for the directory 0x02-git
+This is a README file for the directory 0x02-git
